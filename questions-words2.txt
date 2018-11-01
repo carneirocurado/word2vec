@@ -1,0 +1,36 @@
+: capital-common-countries
+Athens Greece Baghdad Iraq
+Athens Greece Bangkok Thailand
+Athens Greece Beijing China
+Athens Greece Berlin Germany
+Athens Greece Bern Switzerland
+: currency
+Algeria dinar Angola kwanza
+Algeria dinar Argentina peso
+Algeria dinar Armenia dram
+: city-in-state
+Chicago Illinois Houston Texas
+Chicago Illinois Philadelphia Pennsylvania
+Chicago Illinois Phoenix Arizona
+Chicago Illinois Dallas Texas
+Chicago Illinois Jacksonville Florida
+Chicago Illinois Indianapolis Indiana
+: family
+boy girl brother sister
+boy girl brothers sisters
+boy girl dad mom
+boy girl father mother
+boy girl grandfather grandmother
+boy girl grandpa grandma
+boy girl grandson granddaughter
+boy girl groom bride
+: gram1-adjective-to-adverb
+amazing amazingly apparent apparently
+amazing amazingly calm calmly
+: gram2-opposite
+acceptable unacceptable aware unaware
+acceptable unacceptable certain uncertain
+acceptable unacceptable clear unclear
+acceptable unacceptable comfortable uncomfortable
+acceptable unacceptable competitive uncompetitive
+acceptable unacceptable consistent inconsistent
